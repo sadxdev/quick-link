@@ -1,0 +1,13 @@
+package com.bashverse.quicklink;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class QuickLinkApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
